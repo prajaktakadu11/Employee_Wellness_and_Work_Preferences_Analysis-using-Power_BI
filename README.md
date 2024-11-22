@@ -5,7 +5,7 @@
 - Objective
 - Key Features of the Dashboard
 - Tools and Technologies
-- Data Analyis
+- Data Analysis
 - Data Analysis (DAX)
 - Data Visualization
 - Project Insights
@@ -29,7 +29,7 @@ The primary objective of this dashboard is to analyze employee attendance patter
 - Microsoft Power BI
 - DAX
 
-# Data Analyis
+# Data Analysis
 Before creating visualizations, it was essential to prepare and clean the data to ensure accuracy and integrity.
 1. Importing Data into Power BI: The data was stored in three different sheets within an Excel file, with each sheet representing a month's data.
 
