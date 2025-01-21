@@ -65,11 +65,23 @@ SL % = DIVIDE([SL Count],[Total working Days],0)
 ![HR Analytics Dashboard](https://github.com/prajaktakadu11/Employee_Wellness_and_Work_Preferences_Analysis-using-Power_BI/blob/main/HR%20analytics%20dashboard.jpeg?raw=true)
 
 # Project Insights
-- Work Preferences:
-The dashboard revealed that a significant portion of employees preferred WFH during specific months like May and June . This trend could be due to various factors such as weather conditions, or public holidays.
+1. Presence Percentage Trends:
+- Overall Presence: The average presence percentage is 93.64%, indicating good employee attendance.
+- Date Trends: Presence dropped significantly in May 2022, with the lowest recorded percentage at 79.73%, but it improved in June 2022.
+- Day-wise Trends: Presence is highest on Wednesday (94.69%) and lowest on Friday (91.85%).
+  Certain days of the week showed higher absenteeism, which could be due to weekend fatigue or other external factors. Understanding these patterns could lead to adjustments in work 
+  schedules or the implementation of flexible working hours.
 
-- Employee Wellness:
-The analysis showed a spike in sick leaves during certain periods of months or week, indicating potential seasonal illnesses or burnout among employees. This insight could prompt HR to review workload distributions or implement wellness initiatives.
+2. Work Preferences:
+- Overall WFH: The average WFH percentage is 10%.
+- Date Trends: A peak in WFH occurred in May 2022, reaching 23.44%, and gradually declined toward June 2022.
+- Day-wise Trends: WFH is highest on Friday (13.01%) and lowest on Wednesday (8.11%).
+  The dashboard revealed that a significant portion of employees preferred WFH during specific months like May and June . This trend could be due to various factors such as weather 
+  conditions, or public holidays.
 
-- Attendance Trends:
-Certain days of the week showed higher absenteeism, which could be due to weekend fatigue or other external factors. Understanding these patterns could lead to adjustments in work schedules or the implementation of flexible working hours.
+3. Employee Wellness:
+- Overall Sick Leave: The sick leave percentage is minimal at 1.1%, suggesting good employee health or underreporting.
+- Date Trends: Sick leave peaked in June 2022, with 2.56% recorded on some days.
+- Day-wise Trends: Sick leave is highest on Monday (1.62%) and lowest on Friday (0.79%).
+  The analysis showed a spike in sick leaves during certain periods of months or week, indicating potential seasonal illnesses or burnout among employees. This insight could prompt HR to 
+  review workload distributions or implement wellness initiatives.
